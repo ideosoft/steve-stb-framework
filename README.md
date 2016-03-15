@@ -1,2 +1,2 @@
 # stb
-STB
+Set-Top Box Javascript Library
