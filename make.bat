@@ -1,3 +1,3 @@
 @echo off
 
-tsc src\js\hola.ts --outDir build\js\
+tsc src\index.ts --module amd --out build/app.js
